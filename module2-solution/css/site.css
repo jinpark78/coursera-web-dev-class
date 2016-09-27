@@ -2,10 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-    position: absolute;
-}
-
 h1 {
     text-align: center;
     font-size: 1.75em;

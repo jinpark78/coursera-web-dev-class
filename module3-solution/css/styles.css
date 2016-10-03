@@ -1,0 +1,76 @@
+/** GENERAL DOCUMENT STYLING **/
+body {
+    background-color: lightgray;
+    color: black;
+}
+
+h1 {
+    margin: 0px;
+    padding: 12px;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+
+/** BOOTSTRAP OVERRIDES **/
+.navbar-default .navbar-brand {
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+ul .nav {
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    font-size: 1.25em;
+}
+
+#collapsible-nav {
+    background-color: gray;
+}
+
+/** FROM MODULE 2 ASSIGNMENT **/
+section {
+    position: relative;
+    background-color: darkgray;
+    border: none;
+    margin: 12px 12px 12px 12px;
+}
+
+section h1 {
+    position: relative;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: red;
+    border: none;
+    margin-top: 8px;
+    padding: 8px 0px 8px 0px;
+}
+
+section p {
+    position: relative;
+    margin: 16px 16px 16px 16px;
+    padding: 8px 0px 8px 0px;
+}
+
+#section-1-title {
+    color: red;
+    background-color: pink;
+}
+
+#section-2-title {
+    color: blue;
+    background-color: lightblue;
+}
+
+#section-3-title {
+    color: green;
+    background-color: lightgreen;
+}

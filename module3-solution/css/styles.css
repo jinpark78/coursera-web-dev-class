@@ -42,9 +42,10 @@ section {
     background-color: darkgray;
     border: none;
     margin: 12px 12px 12px 12px;
+    /*height: 700px;*/
 }
 
-section h1 {
+section h3 {
     position: relative;
     font-size: 1.5em;
     font-weight: bold;
@@ -60,17 +61,22 @@ section p {
     padding: 8px 0px 8px 0px;
 }
 
-#section-1-title {
+/*section > a > p {
+    /*position: ;*/
+   /* bottom: 0;
+}*/
+
+#chicken-title {
     color: red;
     background-color: pink;
 }
 
-#section-2-title {
+#beef-title {
     color: blue;
     background-color: lightblue;
 }
 
-#section-3-title {
+#sushi-title {
     color: green;
     background-color: lightgreen;
 }

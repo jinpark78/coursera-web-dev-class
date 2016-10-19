@@ -6,3 +6,7 @@ This project contains all assignments for Coursera's "HTML, CSS, and Javascript 
 Module 2 - CSS
 
 Module 3 - Bootstrap
+
+Module 4 - JavaScript
+
+Module 5 - XXX
